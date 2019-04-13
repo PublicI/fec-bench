@@ -1,0 +1,9 @@
+{
+  "name": "fec-bench",
+  "version": "0.1.0",
+  "dependencies": {
+    "@publici/fec-loader": "^1.0.0-alpha.3"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

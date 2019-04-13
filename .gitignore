@@ -1,0 +1,4 @@
+node_modules
+test.fec
+test.csv
+*.ndjson
