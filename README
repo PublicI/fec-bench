@@ -1,5 +1,5 @@
 
-``
+```
 $ npm install
 $ pipenv install
 $ curl -s "http://docquery.fec.gov/dcdev/posted/1300352.fec" > test.fec
@@ -15,4 +15,4 @@ $ time npx fec2json test < test.fec > /dev/null
 real	3m10.033s
 user	3m1.895s
 sys	0m9.437s
-``
+```
